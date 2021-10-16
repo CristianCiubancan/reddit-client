@@ -21,6 +21,7 @@ This website features cookie authentication for security.
 Those are the frameworks/libraries used to build this website client.
 
 * [Next.js](https://nextjs.org/)
+* [TypeScript](https://www.typescriptlang.org/)
 * [Apollo Client](https://www.apollographql.com/docs/react/)
 * [Chakra-UI](https://chakra-ui.com/)
 * [Formik](https://formik.org/)
